@@ -1,0 +1,1 @@
+C:\DotNetPractice\MSTestExample\.sonarqube\out\0
